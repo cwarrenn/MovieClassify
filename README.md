@@ -8,4 +8,4 @@ Objectives:
 
 Project Details:
 
-This project was completed for my Foundations of Data Science course at UC Berkeley. The data originates from the Cornell Movie-Dialogs Corpus. After preprocessing the text—such as lowercasing words, filtering out inappropriate terms, and converting raw counts into frequencies—I constructed a dataset representing each movie by the frequencies of the 5,000 most common words in its screenplay.
+This project was completed for my Foundations of Data Science course at UC Berkeley. The data originates from the [Cornell Movie-Dialogs Corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). After preprocessing the text (such as lowercasing words, filtering out inappropriate terms, and converting raw counts into frequencies) I constructed a dataset representing each movie by the frequencies of the 5,000 most common words in its screenplay.
